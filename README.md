@@ -5,7 +5,6 @@
 <p align="left">
 <a href="https://twitter.com/ayoitsjasonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayoitsjasonn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jasoncle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasoncle" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayoitsjason" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayoitsjason" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
